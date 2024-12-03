@@ -1,0 +1,15 @@
+nav {
+  background: #333;
+  padding: 10px;
+  color: white;
+  display: flex;
+  gap: 10px;
+}
+
+li {
+  cursor: pointer;
+}
+
+li:hover {
+  text-decoration: underline;
+}
